@@ -1,0 +1,95 @@
+body {
+  font-family: "Inconsolata", monospace;
+  font-weight: bold;
+}
+
+.box {
+  border: 1px solid black;
+  margin: 5px;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.value {
+  position: relative;
+  top: calc(50% - 0.55em);
+}
+
+.value2 {
+  position: relative;
+  top: calc(50% - 1.1em);
+}
+
+.the-wrist-game {
+  font-size: 8px;
+  width: 60px;
+  height: 34px;
+}
+
+.quarter-bit {
+  font-size: 8px;
+  width: 60px;
+  height: 34px;
+}
+
+.half-bit {
+  font-size: 8px;
+  width: 60px;
+  height: 34px;
+}
+
+.bit-1 {
+  font-size: 8px;
+  width: 60px;
+  height: 34px;
+}
+
+.bit-2 {
+  font-size: 8px;
+  width: 60px;
+  height: 34px;
+}
+
+.bit-4 {
+  font-size: 16px;
+  width: 120px;
+  height: 68px;
+}
+
+.bit-8 {
+  font-size: 32px;
+  width: 240px;
+  height: 135px;
+}
+
+.bit-16 {
+  font-size: 64px;
+  width: 480px;
+  height: 270px;
+}
+
+.bit-32 {
+  font-size: 128px;
+  width: 960px;
+  height: 540px;
+}
+
+.bit-64 {
+  font-size: 256px;
+  width: 1900px;
+  height: 1070px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.bit-69420 {
+  font-size: 12px;
+  width: 1900px;
+  height: 1070px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
